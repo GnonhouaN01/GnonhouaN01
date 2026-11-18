@@ -1,95 +1,67 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=38BDF8&center=true&vCenter=true&width=640&height=30&lines=TELEMETRY+%C2%B7+STATUS%3A+ONLINE;Full+Stack+Developer+%C2%B7+React+%2F+Next.js+%2F+TypeScript;Laravel+%C2%B7+Node.js+%C2%B7+REST+APIs+%C2%B7+Online+Payments;Building+web+products+for+African+users" alt="Typing animation" />
+# 👋 Salut, c'est Ouattara Gnonhoua N'Golo
 
-# Hi there, I'm Ouattara Gnonhoua N'Golo
+### 🚀 Développeur Fullstack | Concepteur d'applications web de bout en bout
 
-**Full Stack Developer** based in Abidjan, Côte d'Ivoire.
-I design, build and ship web applications end to end, from the database to production.
-
-<a href="mailto:ngoloouattara744@gmail.com"><img src="https://img.shields.io/badge/Email-ngoloouattara744%40gmail.com-238636?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Location-Abidjan%2C%20C%C3%B4te%20d'Ivoire-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Location" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-161b22?style=flat-square&labelColor=161b22&color=2ea043" alt="Status" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6fdd78&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-6fdd78?style=flat-square&logo=appveyor" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-Abidjan%2C%20C%C3%B4te%20d'Ivoire-7bd0ff?style=flat-square&logo=googlemaps" alt="Location" />
+</p>
 
 </div>
 
 ---
 
-## `> now`
+### 💻 À propos de moi
 
-| | |
-|---|---|
-| 🔨 **Building** | Production web platforms with React, Next.js, Laravel and Node.js |
-| 🎓 **Studying** | Master's degree in Big Data at Université Virtuelle de Côte d'Ivoire (UVCI), 2026 – present |
-| 🌱 **Learning** | React Native, software architecture and DevOps |
-| 🎯 **Goal** | Grow into a senior engineer, then a software architect |
+Développeur Fullstack autonome avec une solide expérience dans la conception, le développement et le déploiement d'applications web robustes[cite: 1]. Spécialisé dans l'écosystème JavaScript/TypeScript (**React, Next.js, Vue.js**) et PHP (**Laravel**), je gère l'ensemble du cycle produit (de l'analyse des besoins à la mise en production, incluant l'optimisation et la reprise de code existant)[cite: 1].
 
----
-
-## `> core stack`
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+* 🔭 Actuellement en **Master en Big Data** à l'Université Virtuelle de Côte d'Ivoire (UVCI)[cite: 1].
+* 💼 Expérience confirmée chez **WebdigitCI**, **Flyfret International Group** et **YILYS** à Abidjan[cite: 1].
+* ⚡ Domaines clés : Intégration de paiements en ligne (*CinetPay, PayDunya*), développement d'API REST sécurisées et configuration de serveurs / DevOps (*Cloudflare, o2switch*)[cite: 1].
 
 ---
 
-## `> experience`
+### 🛠️ Stack Technique & Compétences
 
-| Period | Role | What I shipped |
-|---|---|---|
-| 06/2026 – 08/2026 | Full Stack Developer, **WebdigitCI** | PayDunya payment features for the Ombelle IA platform, transactional emails, production deployment and Cloudflare setup |
-| 02/2025 – 03/2026 | Full Stack Developer, **Flyfret International Group** | Solo build of an international delivery platform: real-time parcel tracking, CinetPay payments, customer management, automated SMTP emails |
-| 05/2024 – 09/2024 | Full Stack Developer, **YILYS** | Stock management application in PHP and MySQL, SQL query optimization, UI/UX improvements |
-
----
-
-## `> selected projects`
-
-<!-- Replace each name below with a link to the matching repository once it is public. -->
-
-| Project | Description | Stack |
-|---|---|---|
-| **École Elali Blah** | School management platform running in production: enrollment, grades and news, with an admin dashboard | Laravel, Vue.js |
-| **CivicSignal** | Civic issue reporting platform for Ivorian municipalities | See repository |
-| **DevMetrics** | GitHub developer analytics dashboard | See repository |
-| **ShopCI** | E-commerce platform with online payments | React, Vite, Supabase, Cloudflare Pages, PayDunya |
+| Catégorie | Technologies & Outils |
+| :--- | :--- |
+| **Langages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)[cite: 1] |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)[cite: 1] |
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![API REST](https://img.shields.io/badge/API_REST-FF5722?style=flat-square&logo=postman&logoColor=white)[cite: 1] |
+| **Bases de Données** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)[cite: 1] |
+| **Paiements & Services** | `CinetPay` `PayDunya` `Resend` `SMTP`[cite: 1] |
+| **DevOps & Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) `o2switch`[cite: 1] |
 
 ---
 
-## `> activity`
+### 🚀 Réalisations & Projets Notables
+
+* **Plateforme de Livraison (Flyfret International Group) :** Conception de bout en bout d'une application de logistique avec suivi de colis en temps réel et intégration de la passerelle de paiement *CinetPay*[cite: 1].
+* **Ombelle IA (WebdigitCI) :** Développement et optimisation des fonctionnalités de paiement en ligne (*PayDunya*) et mise en place d'un système d'e-mails transactionnels[cite: 1].
+* **Application de Gestion de Stock (YILYS) :** Développement complet en PHP/MySQL, refactorisation et optimisation des requêtes SQL pour accélérer les performances[cite: 1].
+* **Site web d'établissement scolaire :** Application développée avec *Laravel* et *Vue.js* gérant les inscriptions, les notes, les actualités et un tableau de bord administrateur[cite: 1].
+* **API REST E-commerce :** Architecture sécurisée sous *Laravel Sanctum* avec authentification par jetons, gestion des produits, des commandes et des paiements[cite: 1].
+
+---
+
+### 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=10141a" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=10141a" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Entrer en contact
+
+* **Email :** ngoloouattara744@gmail.com[cite: 1]
+* **Téléphone :** +225 07 18 95 95 92 / 01 70 55 98 31[cite: 1]
+* **Localisation :** Abidjan, Côte d'Ivoire[cite: 1]
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GnonhouaN01&show_icons=true&count_private=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=2ea043&icon_color=38bdf8&text_color=8b949e" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GnonhouaN01&layout=compact&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=2ea043&text_color=8b949e" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=GnonhouaN01&background=0D1117&stroke=30363D&ring=2EA043&fire=A855F7&currStreakLabel=38BDF8&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E&border=30363D" alt="Contribution streak" />
-
+  <img src="https://habitica-assets.s3.amazonaws.com/mobileAssets/shop_pixel_nerd.png" width="80" alt="Dev Pixel Art" />
 </div>
-
----
-
-## `> contact`
-
-Open to full-time and pre-hire opportunities as a Full Stack Developer.
-Reach me at [ngoloouattara744@gmail.com](mailto:ngoloouattara744@gmail.com).
